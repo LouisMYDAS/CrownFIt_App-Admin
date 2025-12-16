@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "398414025167",
+    "firebase_url": "https://tescrossfitfirebaseid-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tescrossfitfirebaseid",
+    "storage_bucket": "tescrossfitfirebaseid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398414025167:android:fa18cc4f4d084682f5c2ba",
+        "android_client_info": {
+          "package_name": "id.ac.umn.admincrownfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398414025167-mlpu9i8ilsad01pup07cnurstmjg72a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArCoRli1kK_54da0uqeOeF5cNP4sCgZFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398414025167-mlpu9i8ilsad01pup07cnurstmjg72a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398414025167:android:337088d3af1035c4f5c2ba",
+        "android_client_info": {
+          "package_name": "id.ac.umn.tescrossfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398414025167-mlpu9i8ilsad01pup07cnurstmjg72a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArCoRli1kK_54da0uqeOeF5cNP4sCgZFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398414025167-mlpu9i8ilsad01pup07cnurstmjg72a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398414025167:android:f5fe0edcf1f2958ef5c2ba",
+        "android_client_info": {
+          "package_name": "id.ac.umn.tesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398414025167-mlpu9i8ilsad01pup07cnurstmjg72a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArCoRli1kK_54da0uqeOeF5cNP4sCgZFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398414025167-mlpu9i8ilsad01pup07cnurstmjg72a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
